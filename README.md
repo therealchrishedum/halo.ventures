@@ -1,5 +1,5 @@
 index.html 
-# halo.ventures
+halo-ventures.index.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
